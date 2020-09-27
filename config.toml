@@ -92,6 +92,3 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
 [markup]
     [markup.highlight]
         noClasses = false
-[module]
-  [[module.imports]]
-    path = "github.com/CaiJimmy/hugo-theme-stack"
