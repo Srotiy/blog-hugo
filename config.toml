@@ -7,7 +7,7 @@ disqusShortname = "Srotiy"            # Change it to your Disqus shortname befor
 DefaultContentLanguage = "zh"                   # Theme i18n support
 
 [permalinks]
-    post = "/post/:slug/"
+    post = "/posts/:slug/"
     page = "/:slug/"
     
 [params]
@@ -20,7 +20,7 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
     [params.sidebar]
         emoji = "🩰"
         avatar = "img/srotiy.jpeg"
-        subtitle = "Oops"
+        subtitle = "呐"
     [params.article]
         math = false
         [params.article.license]
