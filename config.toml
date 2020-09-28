@@ -59,19 +59,19 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
 [menu]
     [[menu.main]]
         identifier = "home"
-        name = "Home"
+        name = "主页"
         url = "/"
         weight = -100
         pre = "home"
     [[menu.main]]
         identifier = "about-cn"
-        name = "About"
+        name = "关于"
         url = "about"
         weight = -90
         pre = "user"
     [[menu.main]]
         identifier = "archives"
-        name = "Archives"
+        name = "归档"
         url = "archives"
         weight = -70
         pre = "archives"
