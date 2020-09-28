@@ -11,7 +11,7 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
     page = "/:slug/"
     
 [params]
-    mainSections = ["post"]
+    mainSections = ["posts"]
     featuredImageField = "image"
     rssFullContent = true
     [params.dateFormat]
