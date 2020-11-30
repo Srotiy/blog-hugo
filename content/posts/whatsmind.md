@@ -7,12 +7,12 @@ draft: false
 偷来的.分享给挣扎的人。  
 若侵犯到您的利益，请联系 v7#outlook.sg。  
 更新中。  
-## 一  
+## 壹  
 <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.1/skins/default/aliplayer-min.css" />
 <script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.9.1/aliplayer-min.js"></script>
 <div class="prism-player" id="player-con0"></div>  
 
-## 二  
+## 贰  
 
 <div class="prism-player" id="player-con1"></div>
 <script>
