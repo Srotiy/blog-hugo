@@ -14,9 +14,9 @@ draft: false
 var player = new Aliplayer({
   "id": "player-con",
   "source": "//wsvideo.zhihuishu.com/zhs/livecourse/live-cloud-VideoScan/202011/e51a610307474326bf2be004de1d4fc6.mp4",
-  "width": "500px",
-  "height": "100%",
-  "autoplay": true,
+  "width": "100%",
+  "height": "500px",
+  "autoplay": false,
   "isLive": false,
   "rePlay": false,
   "playsinline": true,
