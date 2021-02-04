@@ -5,7 +5,7 @@ draft: false
 ---
 
 偷来的.分享给挣扎的人。  
-若侵犯到您的利益，请联系 v7#outlook.sg。  
+若侵犯到您的利益，请联系 hi@srotiy.com  
 更新中。  
 ## 壹  
 <link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.9.1/skins/default/aliplayer-min.css" />
