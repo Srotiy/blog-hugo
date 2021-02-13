@@ -35,8 +35,7 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
         [params.widgets.archives]
             limit = 5
             ### Archives page relative URL
-            path = "archive"       
-        [params.widgets.search]
+            path = "posts"       
     [params.opengraph]
         [params.opengraph.twitter]
             site = ""
