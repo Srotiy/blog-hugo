@@ -31,13 +31,12 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
         # Only Disqus is available so far
         provider = "disqus"
     [params.widgets]
-        enabled = ['archives', 'tag-cloud']
+        enabled = ['archives', 'search']
         [params.widgets.archives]
             limit = 5
             ### Archives page relative URL
-            path = "archives"       
-        [params.widgets.tagCloud]
-            limit = 10
+            path = "archive"       
+        [params.widgets.search]
     [params.opengraph]
         [params.opengraph.twitter]
             site = ""
@@ -69,13 +68,6 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
         url = "about"
         weight = -90
         pre = "user"
-    [[menu.main]]
-        identifier = "archives"
-        name = "归档"
-        url = "archives"
-        weight = -70
-        pre = "archives"
-
 [related]
     includeNewer = true
     threshold = 60
