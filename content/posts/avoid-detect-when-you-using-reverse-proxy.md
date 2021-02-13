@@ -1,7 +1,7 @@
 ---
 title: "使用CDN时防止源站被扫描攻击"
 date: 2020-12-27T11:17:18+08:00
-tag: openssl
+tags: ["openssl"]
 draft: false
 ---
 # 使用CDN就安全无虞?  
