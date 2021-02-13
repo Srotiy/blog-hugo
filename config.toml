@@ -31,7 +31,7 @@ DefaultContentLanguage = "zh"                   # Theme i18n support
         # Only Disqus is available so far
         provider = "disqus"
     [params.widgets]
-        enabled = ['archives', 'search']
+        enabled = ['archives', 'tag-cloud']
         [params.widgets.archives]
             limit = 5
             ### Archives page relative URL
