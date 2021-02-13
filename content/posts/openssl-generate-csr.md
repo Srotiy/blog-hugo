@@ -2,7 +2,7 @@
 title: "OPENSSL生成CSR"
 date: 2021-02-13T12:00:00+08:00
 draft: false
-tags: openssl
+tag: openssl
 ---
 ```
 openssl genrsa -out server.key 2048  
