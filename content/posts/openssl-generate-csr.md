@@ -6,9 +6,9 @@ tags: ["openssl"]
 ---
 ```
 openssl genrsa -out server.key 2048  
-openssl req -new -key server.key -out server.csr -subj "/C=HK/ST=/L=/O=/OU=/CN=domain.com"
+openssl req -new -key server.key -out server.csr -subj "/C=HK/ST=/L=/O=/OU=/CN=domain.com/emailAddress=admin@domain.com"
 ```
 #### 自签名
 ```
-openssl req -new -x509 -days 3650 -key server.key -out server.crt -subj "/C=/ST=/L=/O=/OU=/CN="  
+openssl req -new -x509 -days 3650 -key server.key -out server.crt -subj "/C=/ST=/L=/O=/OU=/CN=domain.com/emailAddress=admin@domain.com"  
 ```
